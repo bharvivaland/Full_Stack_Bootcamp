@@ -39,7 +39,7 @@
 | Vraj Mehta | 2303031087034 | | |
 | Alisha Kaur | 2203031080202 | https://vermillion-fudge-417f60.netlify.app/ | https://github.com/Alishakaur431/image-classifier|
 | Pranav Faladu | 2303031087022 | | |
-| Bharvi Valand | 2303031087002 | | |
+| Bharvi Valand | 2303031087002 | [Task9](https://celebrated-pegasus-172baa.netlify.app/index1) | [bharvivaland](https://github.com/bharvivaland/JSprojects.git)|
 | Neeti Darji | 2303031087080 |[Task 9](https://jsprojects-6m1.pages.dev/index1) | [Github Repository](https://github.com/Neetidarji/Jsprojects) |
 | Suhani Tandel | 2203031080160 | [Task 9] https://coruscating-alpaca-272189.netlify.app/ |[git] https://github.com/SuhaniTandel/JS-Project |
 | Rishabh Rai | 2203031080114 |[Task 9](https://js-coral-psi.vercel.app/class/index.html) |[git](https://github.com/Rishabhrai29/js) |
